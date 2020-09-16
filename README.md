@@ -1,6 +1,6 @@
 # Formación Maquetación Alani
 
-Esta formación constará de 3 prácticas en las que aprenderemos a dominar las siguientes liturgias:
+Esta formación constará de 3 prácticas en las que aprenderemos a dominar las siguientes conocimientos:
 - [HTML](https://github.com/Jsamper92/Bloque-HTML-Alani)
 - [CSS](https://github.com/Jsamper92/Bloque-CSS-Alani)
 - [SASS](https://github.com/Jsamper92/Bloque-SASS-Alani)
